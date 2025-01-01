@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "CB0rATv82LF7mgCuT/65gvdAKWlue3QMA8CxU5V9a64=",
+  "Source": "EventManager.Server",
+  "BasePath": "_content/EventManager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\eventmanager.client\\eventmanager.client.esproj",
+      "Version": 2,
+      "Source": "eventmanager.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

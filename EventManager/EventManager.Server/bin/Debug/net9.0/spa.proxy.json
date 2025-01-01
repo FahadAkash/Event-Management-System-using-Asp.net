@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59115",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\EventManager.Server\\..\\eventmanager.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
