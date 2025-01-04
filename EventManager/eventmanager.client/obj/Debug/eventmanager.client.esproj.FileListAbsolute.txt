@@ -1,1 +1,0 @@
-F:\gihtub\Event-Management-System-using-Asp.net\EventManager\eventmanager.client\obj\Debug\eventmanager.client.esproj.CoreCompileInputs.cache

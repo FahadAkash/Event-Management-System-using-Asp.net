@@ -1,0 +1,13 @@
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\bin\Debug\net8.0\event-management-system.ServiceDefaults.deps.json
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\bin\Debug\net8.0\event-management-system.ServiceDefaults.dll
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\bin\Debug\net8.0\event-management-system.ServiceDefaults.pdb
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.csproj.AssemblyReference.cache
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.AssemblyInfoInputs.cache
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.AssemblyInfo.cs
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.csproj.CoreCompileInputs.cache
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.sourcelink.json
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.dll
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\refint\event-management-system.ServiceDefaults.dll
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\event-management-system.ServiceDefaults.pdb
+F:\gihtub\Event-Management-System-using-Asp.net\EventManager\event-management-system\event-management-system.ServiceDefaults\obj\Debug\net8.0\ref\event-management-system.ServiceDefaults.dll

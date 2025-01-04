@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\event-management-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7726EB1-5F9E-40D5-9BBD-F9437F5B04B3}|event-management-system.AppHost\\event-management-system.AppHost.csproj|f:\\gihtub\\event-management-system-using-asp.net\\eventmanager\\event-management-system\\event-management-system.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7726EB1-5F9E-40D5-9BBD-F9437F5B04B3}|event-management-system.AppHost\\event-management-system.AppHost.csproj|solutionrelative:event-management-system.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425D5375-748A-49C5-B211-59CB7DECE8B5}|event-management-system.Server\\event-management-system.Server.csproj|f:\\gihtub\\event-management-system-using-asp.net\\eventmanager\\event-management-system\\event-management-system.server\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425D5375-748A-49C5-B211-59CB7DECE8B5}|event-management-system.Server\\event-management-system.Server.csproj|solutionrelative:event-management-system.server\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\event-management-system\\event-management-system.Server\\DTO\\EventDto.cs",
+              "RelativeDocumentMoniker": "event-management-system.Server\\DTO\\EventDto.cs",
+              "ToolTip": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\event-management-system\\event-management-system.Server\\DTO\\EventDto.cs",
+              "RelativeToolTip": "event-management-system.Server\\DTO\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:53:34.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\event-management-system\\event-management-system.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "event-management-system.AppHost\\Program.cs",
+              "ToolTip": "F:\\gihtub\\Event-Management-System-using-Asp.net\\EventManager\\event-management-system\\event-management-system.AppHost\\Program.cs",
+              "RelativeToolTip": "event-management-system.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:37:11.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
