@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("event-management-system.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fd99b2cb9c05db9a76eeffe67c852bc77f0ded6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b958e7fa31ca3b20c53b3d22a5b52a22740e7c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("event-management-system.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("event-management-system.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

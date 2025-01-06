@@ -119,6 +119,7 @@ namespace event_management_system.Server.Controllers
                     Email = a.Email
                 }).ToList()
             };
+            _context.ChangeTracker.Entries();
 
             return CreatedAtAction(nameof(GetEvent), new { id = createdEventDto.EventId }, createdEventDto);
         }

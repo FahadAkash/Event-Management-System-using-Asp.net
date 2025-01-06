@@ -3,7 +3,7 @@ import axios from "axios";
 import { Event } from "../types/Event";
 
 const apiClient = axios.create({
-    baseURL: "https://localhost:7146/api",
+    baseURL: "https://localhost:5062/api",
     headers: {
         "Content-type": "application/json"
     }
